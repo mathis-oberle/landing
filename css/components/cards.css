@@ -1,0 +1,30 @@
+.card {
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 20px 0px;
+}
+
+.card h3 {
+	text-align: center;
+}
+.card a {
+	text-align: center;
+}
+
+.cards-team {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.card-team {
+	padding: 20px;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 20px 5px;
+}
